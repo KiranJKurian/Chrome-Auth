@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "2Factor Authentication",
+    "description": "For 2Factor Authentication",
+    "version": "1.0",
+
+    "browser_action": {
+        "default_icon": "logo2.png",
+        "default_popup": "popup.html",
+        "default_title": "My custom google page!"
+    }
+}
